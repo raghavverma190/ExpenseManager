@@ -4,13 +4,14 @@ This is a simple expense manager web-app
 
 ###You can:
 -View your expenses(with pagination)
--Edit
--Delete
+-Edit your expenses
+-Delete your expenses
 
 ###Reports:
 -Weekly total report
 -Categorically total report
-Reports shown in a bar graph
+-Reports shown in a bar graph using DevExtreme REACTIVE
+-All totals shown in INR currency
 
 ###Setting up:
 -Create your own .env file with the necessary details
