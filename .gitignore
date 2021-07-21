@@ -1,0 +1,10 @@
+node_modules/
+
+backend/.env
+backend/.gcloudignore
+backend/app.yaml
+
+frontend/build
+frontend/public
+frontend/.gcloudignore
+frontend/app.yaml
