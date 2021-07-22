@@ -1,6 +1,6 @@
 #Expense Manager web-app
 
-This is a simple expense manager web-app
+This is a simple expense manager web-app. It is a desktop app, not intended for mobile.
 
 ###You can:
 -View your expenses(with pagination)
