@@ -56,7 +56,7 @@ const Header = (props) => {
       expand='lg'
       bg='dark'
       variant='dark'
-      style={{ zIndex: 1 }}
+      style={{ zIndex: 100 }}
     >
       <Container fluid>
         <Navbar.Brand as={Link} exact to='/'>
